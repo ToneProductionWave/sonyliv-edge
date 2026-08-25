@@ -21,4 +21,4 @@ Homepage: https://sonyliv-edge.softnation.xyz
 - **Multi-Device Support:** Stream on multiple devices simultaneously with progress sync.
 
 ## ⚠️ Disclaimer
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.           
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.            
